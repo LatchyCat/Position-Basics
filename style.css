@@ -30,7 +30,7 @@ p {
     background-color: #fff;
     box-shadow: 4px 4px 4px grey;
     /* change the position properties here */
-    position: fixed;
+    position: sticky;
     bottom: 80px;
 }
 
